@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.5"></a>
+## [1.1.5](https://github.com/slavik57/enum-values/compare/v1.1.4...v1.1.5) (2017-08-02)
+
+
+### Bug Fixes
+
+* remove the master branch from travis file ([2445bdc](https://github.com/slavik57/enum-values/commit/2445bdc))
+
+
+
 <a name="1.1.4"></a>
 ## [1.1.4](https://github.com/slavik57/enum-values/compare/v1.1.3...v1.1.4) (2017-08-02)
 
